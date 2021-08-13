@@ -1,0 +1,8 @@
+duolingo.py
+setup.py
+duolingo_api.egg-info/PKG-INFO
+duolingo_api.egg-info/SOURCES.txt
+duolingo_api.egg-info/dependency_links.txt
+duolingo_api.egg-info/pbr.json
+duolingo_api.egg-info/requires.txt
+duolingo_api.egg-info/top_level.txt
